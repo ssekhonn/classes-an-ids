@@ -9,6 +9,7 @@ h1{
 
 .name {
     color: brown;
-background-color: blanchedalmond;
-border: 8px groove lightgray;
+    background-color: blanchedalmond;
+    border: 2px solid lightgray;
 }
+
