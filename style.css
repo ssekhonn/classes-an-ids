@@ -6,3 +6,9 @@ h1{
     font-size: 50px;
     color: rgb(243, 146, 0);
 }
+
+.name {
+    color: brown;
+background-color: blanchedalmond;
+border: 8px groove lightgray;
+}
